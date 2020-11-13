@@ -24,7 +24,7 @@ _exemples :_
 
 # Remarques
 
-Cette flexbox est très interessante car elle permet de faire des catégories et des colonnes pour mieux hiérarchiser les éléments que l'ont souhaite afficher.
+Cette flexbox est très interessante car elle permet de faire des catégories et des colonnes pour mieux hiérarchiser les éléments que l'on souhaite afficher.
 
 # Lien GitHub Pages
 
