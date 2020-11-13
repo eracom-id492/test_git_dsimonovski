@@ -13,13 +13,13 @@ section {
 	height: 400px;
 }
 .second div:nth-child(4) {
-	order: 1
+	order: -1
 }
 .second div:nth-child(1) {
-	order: 4
+	order: -4
 }
 .second div:nth-child(2) {
-	order: 3
+	order: -3
 }
 .third div:nth-child(4) {
 	order: -1
